@@ -4,7 +4,7 @@
 
 # 📊 GitHub Stats:
 
-![Swaroop's github stats](https://github-readme-stats.vercel.app/api?username=swaroop-2021&count_private=true&show_icons=true&include_all_commits=true)
+![Swaroop's github stats](https://github-readme-stats.vercel.app/api?username=swaroop-2021&count_private=true&show_icons=true&theme=default&include_all_commits=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swaroop-2021&hide_border=false)<br/>
 
