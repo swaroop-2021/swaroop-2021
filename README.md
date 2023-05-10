@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-2021&label=Profile%20views&color=0e75b6&style=flat" alt="anant-strong" /> </p>
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=swaroop-2021&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+
+![Swaroop's github stats](https://github-readme-stats.vercel.app/api?username=swaroop-2021&count_private=true&show_icons=true&include_all_commits=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swaroop-2021&hide_border=false)<br/>
 
 # 🧰 Languages and Tools:
