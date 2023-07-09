@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-2021&label=Profile%20views&color=0e75b6&style=flat" alt="anant-strong" /> </p>
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swaroop-2021&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swaroop-2021&theme=default&hide_border=true)<br/>
