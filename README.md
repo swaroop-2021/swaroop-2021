@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swaroop Anegundi</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🤝 I’m looking for help with React & Angular<br>🌱 I’m currently learning React Native and 
-Angular<br>💬 Ask me about NodeJS
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on MERN Stack Projects<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React Native<br>💬 Ask me about NodeJS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroop-2021&label=Profile%20views&color=0e75b6&style=flat" alt="anant-strong" /> </p>
 
