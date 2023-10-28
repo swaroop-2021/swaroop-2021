@@ -20,5 +20,5 @@
 [![An image of @swaroop2021's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swaroop2021)](https://holopin.io/@swaroop2021)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swaroop_anegundi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaroop-raghavendra-anegundi-82711a221) 
